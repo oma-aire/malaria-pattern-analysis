@@ -38,7 +38,6 @@ The dataset consists of 1,500 records of malaria patients diagnosed in Nigeria. 
 14. Season of Diagnosis: The season during which the patient was diagnosed (e.g., Rainy Season, Dry Season), helping to identify seasonal trends in malaria cases.
 
 Objectives of Analysis
-
 The analysis of this dataset aims to achieve the following objectives:
 1: Regional prevalence (which areas are most affected).
 2:  Age and gender distribution (who is most affected).

@@ -1,7 +1,4 @@
-# malaria-pattern-analysis
-FINAL PROJECT
-PROJECT TITLE: Analysis of Malaria Dataset in Nigeria
-PRESENTED BY: Nneoma Chidinma Eze
+
 
 Introduction
 Malaria is a significant public health concern in Nigeria, leading to considerable sickness and death rates. This dataset provides a comprehensive overview of malaria cases diagnosed in Nigeria, focusing on various demographic, geographic, and clinical factors. The purpose of this document is to describe the dataset and outline the intended analysis.
